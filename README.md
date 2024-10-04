@@ -1,4 +1,4 @@
-# Ch2.2
+# Module 02
 # Exercise: Track New Files and Commit Them
 
 ## Step 1
